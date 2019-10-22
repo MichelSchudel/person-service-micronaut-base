@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: person-service-micronaut-base
+jackson:
+  bean-introspection-module: true
